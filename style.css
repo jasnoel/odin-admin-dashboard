@@ -195,6 +195,7 @@ h2 {
 }
 
 .trending {
+    margin-top: 30px;
     grid-column: -2 / -1;
 }
 
